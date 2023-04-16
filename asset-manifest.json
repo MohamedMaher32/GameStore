@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GameStore/static/css/main.67f56a31.css",
+    "main.js": "/GameStore/static/js/main.0383c990.js",
+    "static/js/787.d1340d69.chunk.js": "/GameStore/static/js/787.d1340d69.chunk.js",
+    "static/media/fa-solid-900.ttf": "/GameStore/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/header.png": "/GameStore/static/media/header.0fddd1fbe0a5e0a0af93.png",
+    "static/media/fa-brands-400.ttf": "/GameStore/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/logo.png": "/GameStore/static/media/logo.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/GameStore/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/datelies background.jpg": "/GameStore/static/media/datelies background.da14828808c7d5b17c32.jpg",
+    "static/media/fa-brands-400.woff2": "/GameStore/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/GameStore/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/main-bg.jpg": "/GameStore/static/media/main-bg.b325c871e5d461befb01.jpg",
+    "static/media/fa-regular-400.woff2": "/GameStore/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/GameStore/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/GameStore/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/GameStore/index.html",
+    "main.67f56a31.css.map": "/GameStore/static/css/main.67f56a31.css.map",
+    "main.0383c990.js.map": "/GameStore/static/js/main.0383c990.js.map",
+    "787.d1340d69.chunk.js.map": "/GameStore/static/js/787.d1340d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f56a31.css",
+    "static/js/main.0383c990.js"
+  ]
+}
