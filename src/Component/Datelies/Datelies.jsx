@@ -52,7 +52,7 @@ export default function Datelies() {
                                     <h1 className="pb-1">{dateliseInfo.title}</h1>
                                     <p className='small' style={{ lineHeight: "1.7", letterSpacing: "1px" }}>{dateliseInfo.description}</p>
                                     <hr />
-                                    {dateliseInfo.minimum_system_requirements ?
+                                    {dateliseInfo.minimum_system_requirements?
                                         <><h4 className='mb-3'>Minimum System Requirements</h4>
                                             <p className='small'><span className='fw-bold'>graphics : </span>{dateliseInfo.minimum_system_requirements?.graphics}</p>
                                             <p className='small'><span className='fw-bold'>memory : </span>{dateliseInfo.minimum_system_requirements?.memory}</p>

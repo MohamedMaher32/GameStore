@@ -243,7 +243,11 @@ nav {
   text-decoration: none;
   color: #aaa;
 }
-
+@media screen and (max-width:499px) {
+  .Recommend{
+  font-size: 22px !important;
+}
+}
 /* **************************************************************** Start datelis **************************************************************/
 .datelies {
   background: url(Assets/datelies\ background.jpg);
