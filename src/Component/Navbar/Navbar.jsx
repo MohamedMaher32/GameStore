@@ -68,7 +68,7 @@ export default function Navbar() {
                 :
                 <>
                   <li className="nav-item">
-                    <Link className="nav-link btn btn-bg" to="login">Login</Link>
+                    <Link className="nav-link btn btn-bg mb-2" to="login">Login</Link>
                   </li>
                   <li className="nav-item">
                     <Link className="nav-link btn btn-bg2" to="/">Register</Link>
